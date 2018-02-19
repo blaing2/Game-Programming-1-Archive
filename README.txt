@@ -1,0 +1,1 @@
+This is a folder to collect all my projects from game programming 1 in spring 2018
